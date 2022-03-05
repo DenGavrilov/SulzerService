@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sulzer service</string>
+    <string name="start_service">Start the service</string>
+    <string name="start_question">Maintenance question</string>
+    <string name="console_text">Cantilever \n single-stage \n pump</string>
+    <string name="console_text_land">Cantilever single-stage pump</string>
+    <string name="service_first">Stages   of service work</string>
+    <string name="start_installation">Installation on the site</string>
+    <string name="checking_installation">Check the installation</string>
+    <string name="start_up">Start - Up</string>
+    <string name="check_after_start">"Check after Start-Up "</string>
+    <string name="maintenance">Maintenance</string>
+    <string name="repair">Repair</string>
+    <string name="next">NEXT</string>
+    <string name="previous">PREVIOUS</string>
+    <string name="unscrew_901_31">Remove the four screws</string>
+    <string name="service_first_land">Stages of service work</string>
+    <string name="remove_685_51">Remove element of the guard</string>
+    <string name="tools">Tools:</string>
+    <string name="insert_two_screw">Screw the two bolts removed earlier into \n the extraction holes</string>
+    <string name="documentation">Documentation</string>
+    <string name="pipelines">Pipelines</string>
+    <string name="foundation">Foundation</string>
+    <string name="flanges">Flanges</string>
+    <string name="shaft_seal">Shaft seal</string>
+    <string name="lubrication">Lubrication</string>
+    <string name="coupling">Coupling</string>
+    <string name="motor">Motor</string>
+    <string name="list_tools">List of tools</string>
+    <string name="pump_section">Pump unit</string>
+    <string name="wet_end">Wet end</string>
+    <string name="sealing_unit">Sealing unit</string>
+    <string name="bearing_unit">Bearing unit</string>
+    <string name="about_registration">To fill out the checklist, please register or log in to your account</string>
+    <string name="user_name">Name</string>
+    <string name="user_surname">Surname</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="registration_form">Registration form</string>
+    <string name="dob">Date of Birth</string>
+    <string name="phone">Phone number</string>
+    <string name="cancel">Cancel</string>
+    <string name="take_picture">Take picture</string>
+    <string name="coupling_size">Coupling size</string>
+    <string name="coupling_type">Type</string>
+    <string name="gap_for_spacer">Gap for spacer</string>
+    <string name="locking_screws">Locking screws</string>
+    <string name="alignment">Alignment</string>
+    <string name="coupling_guard">Coupling guard</string>
+    <string name="comments">Note</string>
+    <string name="pump_registration">Please enter information about the equipment</string>
+    <string name="issues">Issues by:</string>
+    <string name="date">Date:</string>
+    <string name="tire">-</string>
+    <string name="pump_type">Pump type:</string>
+    <string name="a">A</string>
+    <string name="serial_number">Serial number:</string>
+    <string name="position">Position:</string>
+    <string name="enter_pump_number">Please enter all the fields!</string>
+    <string name="pump_registered">Pump added!</string>
+    <string name="registration_failed">Registration failed!</string>
+    <string name="pump_exists">Pump already exists!</string>
+    <string name="customer_registration">Please select the company name from the list or add a new one</string>
+    <string name="department_registration">Select department from the list or add a new one</string>
+    <string name="customer">Customer:</string>
+    <string name="department">Department:</string>
+    <string name="enter_customer">Please enter all the fields!</string>
+    <string name="customer_registered">Customer added!</string>
+    <string name="add_customer">Customer name</string>
+    <string name="add_department">Department name</string>
+    <string name="new_customer">Add</string>
+    <string name="add_new_customer">Add new Customer</string>
+    <string name="new_department">Add</string>
+    <string name="add_new_department">Add new Department</string>
+    <string name="save_customer">Save Customer</string>
+    <string name="save_department">Save Department</string>
+    <string name="take_main_picture">General picture of the pump</string>
+    <string name="data_added">Data has been added</string>
+    <string name="save">Save</string>
+    <string name="data_saved">All reports sent</string>
+    <string name="service_guy_blue">Service_guy_blue</string>
+    <string name="question_text">Write out all your question</string>
+    <string name="send">Send</string>
+    <string name="comeback">Back</string>
+    <string name="enter_question">Please enter your question</string>
+    <string name="question_sent">Your question has been sent!</string>
+    <string name="about">About the app</string>
+    <string name="app_version">Build version: 1.0.0</string>
+    <string name="cross"></string>
+    <string name="wrench">Wrench:</string>
+    <string name="w_13">A1, A2 – 13 mm;</string>
+    <string name="w_17">A3, A4 – 17 mm;</string>
+    <string name="w_19">A5 – 19 mm;</string>
+    <string name="w_24">A6, A7 – 24 mm.</string>
+    <string name="w90111_19">A1, A2 - 19 mm;</string>
+    <string name="w90111_24">A3, A4 - 24 mm;</string>
+    <string name="w90111_30">A5, A6 - 30 mm;</string>
+    <string name="w90111_36">A7 - 36 mm.</string>
+    <string name="w90162_19">A1, A2, A3 - 19 mm;</string>
+    <string name="w90162_24">A4 - 24 mm;</string>
+    <string name="w90162_30">A5, A6, A7 - 30 mm.</string>
+    <string name="some_key">Allen wrench</string>
+    <string name="drawout_360_31">Draw the bearing cover out. \n As a result, the deflector will also come off.</string>
+    <string name="soft_hammer">Soft hammer</string>
+    <string name="strike_hummer">Strike the pump side end of the shaft \n with a soft hammer</string>
+    <string name="extract_shaft">Simultaneously the other deflector \n also comes off. Remove the shaft</string>
+    <string name="pos_num">Pos / Serial number</string>
+    <string name="machine_plate">Machine plate</string>
+    <string name="availibility">Documents available</string>
+    <string name="tds">Technical data sheet</string>
+    <string name="curve">Performance curve</string>
+    <string name="drawings">Sectional drawings</string>
+    <string name="spare">Spare parts list</string>
+    <string name="dimension">Dimension print</string>
+    <string name="manual">O and M manual</string>
+    <string name="safety">Safety instructions</string>
+    <string name="certificate">CE - certificate</string>
+    <string name="general_pipe">General piping</string>
+    <string name="bends">Bends</string>
+    <string name="inlet">Inlet pipe</string>
+    <string name="valves">Loc./type of valves</string>
+    <string name="supports">Pipe supports</string>
+    <string name="install_pipe">Installation vs tank</string>
+    <string name="execution">Execution</string>
+    <string name="grouting">Grouting</string>
+    <string name="motor_stand">Motor stand</string>
+    <string name="lifting_arm">Lifting arm bracket</string>
+    <string name="fasteners">Fasteners</string>
+    <string name="gaskets">Gaskets</string>
+    <string name="type">Type</string>
+    <string name="sealing_water">Sealing water joints</string>
+    <string name="seal_setting">Sealing water settings</string>
+    <string name="control_unit">SW control unit</string>
+    <string name="general_conditions">General conditions</string>
+    <string name="lubrication_type">Lubrication type</string>
+    <string name="level_lubrication">Grease fill / Oil level</string>
+    <string name="motor_installation">Installation</string>
+    <string name="motor_brackets">Motor brackets</string>
+    <string name="shims">Shims</string>
+    <string name="painting">Painting</string>
+    <string name="grouting2">Grouting</string>
+    <string name="visual_damages">Visual damages</string>
+    <string name="hand_rotation">Rotation by hand</string>
+    <string name="to_start">New report</string>
+    <string name="remove_three_socket">Remove the three socket head screws</string>
+    <string name="remove_guard">Remove the guard jackets \n and coupling spacer</string>
+    <string name="unscrew_901_11">Unscrew the hexagon head screws</string>
+    <string name="unscrew_901_62">Unscrew the hexagon head screws \n of the support foot from the baseplate</string>
+    <string name="drawout_eu">Pull out the exchange unit</string>
+    <string name="start_up_supervision">Start-up supervision</string>
+    <string name="disassembly">Disassembly</string>
+    <string name="assembly">Reassembly</string>
+    <string name="unscrew_914_11">Unscrew the cap screw socket head \n of the impeller</string>
+    <string name="detach_impeller">Detach the impeller \n by turning it counter-clockwise.</string>
+    <string name="unscrew_sideplate">Unscrew the three nuts .\n Turn the potential adjusting screws counter-clockwise</string>
+    <string name="detach_sideplate">The sideplate can now be removed \n with a proper tool from the volute casing. </string>
+    <string name="shaft_size">Shaft size</string>
+    <string name="torque">Torque (Nm)</string>
+    <string name="titan_screw">Titanium screws (76)</string>
+    <string name="rating">Rating value</string>
+    <string name="max_value">Max. value</string>
+    <string name="a1">A1</string>
+    <string name="a2">A2</string>
+    <string name="a3">A3</string>
+    <string name="a4">A4</string>
+    <string name="a5">A5</string>
+    <string name="a6">A6</string>
+    <string name="a7">A7</string>
+    <string name="impeller_screw">Impeller locking screw</string>
+    <string name="eu_screw">Exchange unit fastening screws</string>
+    <string name="sf_screw">Support foot fastening screws</string>
+    <string name="atеach_impeller">Attach the impeller, by turning it clockwise.
+    \n
+Secure the impeller with a screw with the O-ring installed. \n
+The tightening torque is indicated in the table. \n
+Using a special tool, lock the screw.</string>
+    <string name="allen_wrench">Allen wrench</string>
+    <string name="pull_out_eu">Pull out the exchange unit</string>
+    <string name="close_DV">Close the discharge valve.</string>
+    <string name="stop_motor">Stop the motor. \nMake sure that the motor cannot be started.</string>
+    <string name="close_SV">Close the suction valve.</string>
+    <string name="normal_tools">Normally available working tools:</string>
+    <string name="hoisting_accessories">&#8226; Hoisting accessories. Note the safety requirements!</string>
+    <string name="wrenches">&#8226; Wrenches for hexagonal screws, sizes (mm): 13, 14, 16, 18, 19, 22, 24, 30, 36</string>
+    <string name="allen_wrenches">&#8226; Allen wrenches for socket head screws, sizes (mm): 2,5, 4, 5, 6, 8, 10, 14</string>
+    <string name="torque_wrenches">&#8226; Torque wrenches for moments (Nm): 30, 50, 130, 250, 420, 800 </string>
+    <string name="torque_wrench">Torque wrench</string>
+    <string name="hex_screw">- for hexagonal, sizes (mm): 18, 24, 30, 36 </string>
+    <string name="soc_screw">- for socket head, sizes (mm): 8, 10, 14, 17, 19, 22, 27</string>
+    <string name="hooked_wrench">&#8226; Hooked wrenches, sizes (SKF): HN8, HN10, HN12, HN14, HN18, HN22, HN26 </string>
+    <string name="extractors">&#8226; Extractors</string>
+    <string name="heater">&#8226; Bearing heater</string>
+    <string name="indicators">&#8226; Dial indicators </string>
+    <string name="clean_agents">&#8226; Cleaning agents and equipment</string>
+    <string name="lub_agents">&#8226; Lubricating agents and equipment</string>
+    <string name="spec_tools">Special tools:</string>
+    <string name="detach_tool">&#8226; Detachment tool for the casing wear ring/sideplate</string>
+    <string name="pipe_punch">&#8226; Pipe punch series for roller bearings and lubrication rings</string>
+    <string name="sec_tool">&#8226; Securing tool for impeller head screw</string>
+    <string name="suspend_eu">Suspend the exchange unit with a hoist at the maintenance opening of the adapter or underneath the adapter.</string>
+    <string name="fit_gasket">Fit the gasket (400.21) into the case cover</string>
+    <string name="inst_eu">Install the exchange unit in its place</string>
+    <string name="lubricate_901_11">Lubricate the hexagon head screws (901.11) with Molycote Ti 1200 lubricant and tighten them in a cross bolt pattern little by little;
+        first 30% of moment in Table, then 60% of moment in Table and then 100% of moment in Table.
+        Finally tighten the screws screw by screw clockwise with 100% of moment given in Table. </string>
+    <string name="adjust_foot">Place adjusting plates under the support foot. \nThe plates must have the same thickness as the gap under the support foot. \nDo not close the gap by tightening.</string>
+    <string name="fix_foot">Fix the support foot to the baseplate with the hexagon head screws. </string>
+    <string name="coupling_spacer">Install the coupling spacer according to the coupling manufacturer’s instructions. </string>
+    <string name="fix_jackets">Fix the coupling guard jackets.</string>
+    <string name="adj_jackets">The coupling guard must be adjusted so \nthat the space between the coupling guard and motor is approx. 5 mm. </string>
+    <string name="saved_reports">Unsent reports</string>
+    <string name="sent_reports">Reports sent</string>
+    <string name="new_report">New report</string>
+    <string name="pos_ser">Pos / Serial number</string>
+    <string name="lub_type">Lubrication type</string>
+    <string name="w91411_1">A1 - 8 mm;</string>
+    <string name="w91411_2">A2 - 10 mm;</string>
+    <string name="w91411_3">A3 - 14 mm;</string>
+    <string name="w91411_4">A4 - 16 mm;</string>
+    <string name="w91411_5">A5 - 19 mm;</string>
+    <string name="w91411_6">A6 - 22 mm;</string>
+    <string name="w91411_7">A7 - 27 mm.</string>
+    <string name="wooden_bar">Wooden bars</string>
+    <string name="instal_side_plate">Grease the o-ring and fit it into the groove of the sideplate. \n
+                                     Grease 3 o-rings and fit it into the groove of the adjusting screws. \n
+                                     Screw the screws into the sideplate. Install the sideplate into \n
+                                     the volute case. Fix the nuts to the adjusting screws.</string>
+    <string name="safety_procedures">Safety procedures</string>
+    <string name="pipework">Pipework</string>
+    <string name="coupling_unit">Coupling unit</string>
+    <string name="baseplate">Baseplate</string>
+    <string name="place_fundation_screw">Place the foundation screws in the fixing holes of the base plate, \n
+                                         taking into account the distance between the foundation and the lower edge \n
+                                         of the base plate which must be at least 50mm. Each foundation screw is fixed \n
+                                         to the base plate by means of hexagonal nuts (2 pcs/foundation screw)</string>
+    <string name="disas_dynamic_1">Unscrew the hexagon head screws (901.21). Detach the case cover. Detach the gasket \n
+                                   (400.22) or o-ring (412.23). Remove the expeller from the shaft. \n
+                                   By using the hexagon head screws (901.21) as extractors, pull \n
+                                   the stuffing box housing (451.21) out of the guideway in the adapter.</string>
+    <string name="disas_dynamic_2">Remove the shaft wearing sleeve (524.21) from the shaft. \n
+                                   Unscrew the nuts (920.21) and detach the thrust ring (475.21) \n
+                                   from the stuffing box housing (451.21). \n
+                                   Remove the static seal (435.21) and o-rings (412.25) from the shaft \n
+                                   wearing sleeve (524.21). </string>
+    <string name="assembly_dynamic_p1">Grease the o-ring and place it into the groove of the static seal.\n
+                                       Push the static seal to the thrust ring. \n
+                                       Grease the o-ring and place it into its proper groove in the thrust ring. \n
+                                       Place the  thrust ring on the stuffing box housing and fix it with the studs \n
+                                       and nuts.  Do not tighten the nuts. \n
+                                       Push the shaft wearing sleeve onto the shaft against the shoulder. \n
+                                       Push the stuffing box housing with its parts into its place in the adapter.</string>
+</resources>

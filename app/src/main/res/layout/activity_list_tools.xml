@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ListToolsActivity">
+
+    <TextView
+        android:id="@+id/listToolsText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/list_tools"
+        android:textAlignment="center"
+        android:textColor="#002F6C"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/view" />
+
+    <ImageView
+        android:id="@+id/logoSulzerBlue"
+        android:layout_width="171dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:contentDescription="@string/sulzer_logo_blue"
+        android:src="@drawable/sulzer_logo_blue"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="fill_parent"
+        android:layout_height="3dp"
+        android:layout_marginStart="6dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="6dp"
+        android:background="#003DA5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/logoSulzerBlue" />
+
+    <ImageView
+        android:id="@+id/imageTools"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:contentDescription="@string/image_tools_blue"
+        android:src="@drawable/tools_blue"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/listToolsText">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="none">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/txtNormalTools"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="@string/normal_tools"
+                    android:textColor="#002F6C"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/txtHoisting"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="@string/hoisting_accessories"
+                    android:textAlignment="viewStart"
+                    android:textColor="#002F6C"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/txtWrenches"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="@string/wrenches"
+                    android:textAlignment="viewStart"
+                    android:textColor="#002F6C"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/txtAllenWr"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="@string/allen_wrenches"
+                    android:textAlignment="viewStart"
+                    android:textColor="#002F6C"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/txtTorqueWr"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="@string/torque_wrenches"
+                    android:textAlignment="viewStart"
+                    android:textColor="#002F6C"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/txtForHex"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="8dp"
+                    android:text="@string/hex_screw"
+                    android:textAlignment="viewStart"
+                    android:textColor="#002F6C"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/txtForSoc"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="8dp"
+                    android:text="@string/soc_screw"
+                    android:textAlignment="viewStart"
+                    android:textColor="#002F6C"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/txtHookedWr"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="@string/hooked_wrench"
+                    android:textAlignment="viewStart"
+                    android:textColor="#002F6C"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/txtExtractors"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="@string/extractors"
+                    android:textAlignment="viewStart"
+                    android:textColor="#002F6C"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/txtHeater"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="@string/heater"
+                    android:textAlignment="viewStart"
+                    android:textColor="#002F6C"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/txtIndicators"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="@string/indicators"
+                    android:textAlignment="viewStart"
+                    android:textColor="#002F6C"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/txtCleanAgent"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="@string/clean_agents"
+                    android:textAlignment="viewStart"
+                    android:textColor="#002F6C"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/txtLubAgent"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="@string/lub_agents"
+                    android:textAlignment="viewStart"
+                    android:textColor="#002F6C"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/txtSpecialTools"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16dp"
+                    android:text="@string/spec_tools"
+                    android:textColor="#002F6C"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/txtDetachTool"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="@string/detach_tool"
+                    android:textAlignment="viewStart"
+                    android:textColor="#002F6C"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/txtPipePunch"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="@string/pipe_punch"
+                    android:textAlignment="viewStart"
+                    android:textColor="#002F6C"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/txtSecTool"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="@string/sec_tool"
+                    android:textAlignment="viewStart"
+                    android:textColor="#002F6C"
+                    android:textSize="14sp" />
+
+            </LinearLayout>
+
+        </ScrollView>
+
+
+
+
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/btn_close"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/circle_button_selector"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:src="@drawable/back_cross"
+        tools:ignore="VectorDrawableCompat" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

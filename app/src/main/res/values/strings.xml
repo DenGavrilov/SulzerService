@@ -1,0 +1,319 @@
+<resources>
+    <string name="app_name">Sulzer service</string>
+    <string name="sulzer_logo_white" translatable="false">Sulzer logo white</string>
+    <string name="sulzer_logo_blue" translatable="false">Sulzer logo blue</string>
+    <string name="image_tools_blue" translatable="false">Image tools blue</string>
+    <string name="first_text" translatable="false">Because life \n \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 is fluid...</string>
+    <string name="start_service">Начать обслуживание</string>
+    <string name="start_question">Вопрос по сервису</string>
+    <string name="console_text">Консольный \n одноступенчатый \n насос</string>
+    <string name="console_text_land">Консольный одноступенчатый насос</string>
+    <string name="ahlstar_a" translatable="false">Ahlstar A</string>
+    <string name="info" translatable="false">i</string>
+    <string name="service_first">Этапы \n сервисных работ</string>
+    <string name="service_first_land">Этапы сервисных работ</string>
+    <string name="start_installation">Установка на площадке</string>
+    <string name="checking_installation">Контроль монтажа</string>
+    <string name="start_up">Запуск</string>
+    <string name="check_after_start">Проверка после запуска</string>
+    <string name="maintenance">Техническое обслуживание</string>
+    <string name="repair">Ремонт</string>
+    <string name="title_activity_video" translatable="false">VideoActivity</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="next">Далее</string>
+    <string name="previous">Назад</string>
+    <string name="unscrew_901_31">Открутите четыре болта</string>
+    <string name="remove_685_51">Снимите элемент ограждения</string>
+    <string name="tools">Инструменты:</string>
+    <string name="insert_two_screw">Вкрутите два болта выкрученных ранее в \n отверстия для экстракции</string>
+    <string name="documentation">Документация</string>
+    <string name="pipelines">Трубопроводы</string>
+    <string name="foundation">Фундамент</string>
+    <string name="flanges">Фланцы</string>
+    <string name="shaft_seal">Уплотнение вала</string>
+    <string name="lubrication">Смазка</string>
+    <string name="coupling">Муфта</string>
+    <string name="motor">Двигатель</string>
+    <string name="list_tools">Список инструментов</string>
+    <string name="pump_section">Насос в сборе</string>
+    <string name="wet_end">Проточная часть</string>
+    <string name="sealing_unit">Узел уплотнения</string>
+    <string name="bearing_unit">Подшипниковый узел</string>
+    <string name="about_registration">Для заполнения чек-листа пожалуйста зарегистрируйтесь или войдите в свой аккаунт</string>
+    <string name="user_name">Имя</string>
+    <string name="user_surname">Фамилия</string>
+    <string name="password">Пароль</string>
+    <string name="login">Войти</string>
+    <string name="register">Регистрация</string>
+    <string name="registration_form">Форма регистрации</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="dob">Дата рождения</string>
+    <string name="phone">Телефон</string>
+    <string name="cancel">Отмена</string>
+    <string name="take_picture">Сделать фото</string>
+    <string name="coupling_size">Размер муфты</string>
+    <string name="coupling_type">Тип муфты</string>
+    <string name="gap_for_spacer">Размер проставка</string>
+    <string name="locking_screws">Фиксирующие болты</string>
+    <string name="alignment">Центровка</string>
+    <string name="coupling_guard">Защита муфты</string>
+    <string name="comments">Комментарии</string>
+    <string-array name="status_name">
+        <item>Ok</item>
+        <item>NA</item>
+        <item>Comment</item>
+        <item>Problem</item>
+    </string-array>
+    <string-array name="sealing_types">
+        <item>Gland packing</item>
+        <item>Single mechanical</item>
+        <item>Double mechanical</item>
+        <item>Cartridge</item>
+        <item>Dynamic</item>
+    </string-array>
+    <string-array name="grease_type">
+        <item>Grease</item>
+        <item>Oil</item>
+    </string-array>
+    <string-array name="buSize">
+        <item>10</item>
+        <item>11</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>51</item>
+        <item>53</item>
+        <item>55</item>
+        <item>60</item>
+        <item>63</item>
+        <item>71</item>
+        <item>72</item>
+    </string-array>
+    <string-array name="dischSize">
+        <item>32</item>
+        <item>40</item>
+        <item>50</item>
+        <item>65</item>
+        <item>80</item>
+        <item>100</item>
+        <item>125</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+        <item>500</item>
+        <item>600</item>
+        <item>700</item>
+    </string-array>
+    <string name="pump_registration">Пожалуйста введите данные об оборудовании</string>
+    <string name="issues">Исполнитель:</string>
+    <string name="date">Дата:</string>
+    <string name="tire">-</string>
+    <string name="pump_type">Тип насоса:</string>
+    <string name="a">А</string>
+    <string name="serial_number">Серийный номер:</string>
+    <string name="position">Позиция:</string>
+    <string name="enter_pump_number">Пожалуйста заполните все поля</string>
+    <string name="pump_registered">Насос добавлен!</string>
+    <string name="registration_failed">Ошибка регистрации!</string>
+    <string name="pump_exists">Насос уже существует!</string>
+    <string name="customer_registration">Пожалуйста выберите название предприятия из списка или добавьте новое</string>
+    <string name="department_registration">Выберите цех / отдел из списка или добавьте новый</string>
+    <string name="customer">Заказчик:</string>
+    <string name="department">Цех:</string>
+    <string name="enter_customer">Пожалуйста заполните все поля!</string>
+    <string name="customer_registered">Заказчик добавлен!</string>
+    <string name="add_customer">Название предприятия</string>
+    <string name="add_department">Название цеха</string>
+    <string name="new_customer">Добавить</string>
+    <string name="add_new_customer">Добавить Заказчика</string>
+    <string name="new_department">Добавить</string>
+    <string name="add_new_department">Добавить цех</string>
+    <string name="save_customer">Сохранить Заказчика</string>
+    <string name="save_department">Сохранить цех</string>
+    <string name="take_main_picture">Общий вид насоса</string>
+    <string name="data_added">Данные добавлены</string>
+    <string name="save">Сохранить</string>
+    <string name="data_saved">Все отчёты отправлены</string>
+    <string name="service_guy_blue">Service_guy_blue</string>
+    <string name="question_text">Напишите Ваш вопрос</string>
+    <string name="send">Отправить</string>
+    <string name="comeback">Вернуться</string>
+    <string name="enter_question">Пожалуйста введите Ваш вопрос</string>
+    <string name="question_sent">Ваш вопрос был отправлен!</string>
+    <string name="about">О приложении</string>
+    <string name="app_version">Версия приложения: 1.0.0</string>
+    <string name="cross">+</string>
+    <string name="wrench">Ключ:</string>
+    <string name="w_13">A1, А2 – 13 мм;</string>
+    <string name="w_17">A3, A4 – 17 мм;</string>
+    <string name="w_19">A5 – 19 мм;</string>
+    <string name="w_24">A6, A7 – 24 мм.</string>
+    <string name="w90111_19">A1, A2 - 19 мм;</string>
+    <string name="w90111_24">A3, A4 - 24 мм;</string>
+    <string name="w90111_30">A5, A6 - 30 мм;</string>
+    <string name="w90111_36">A7 - 36 мм.</string>
+    <string name="w90162_19">A1, A2, A3 - 19 mm;</string>
+    <string name="w90162_24">A4 - 24 mm;</string>
+    <string name="w90162_30">A5, A6, A7 - 30 mm.</string>
+    <string name="w91411_1">A1 - 8 мм;</string>
+    <string name="w91411_2">A2 - 10 мм;</string>
+    <string name="w91411_3">A3 - 14 мм;</string>
+    <string name="w91411_4">A4 - 16 мм.</string>
+    <string name="w91411_5">A5 - 19 мм;</string>
+    <string name="w91411_6">A6 - 22 мм;</string>
+    <string name="w91411_7">A7 - 27 мм.</string>
+    <string name="some_key">Шестигранный</string>
+    <string name="drawout_360_31">Извлеките крышку подшипника.\n В результате этого дефлектор также снимется.</string>
+    <string name="drawout_eu">Извлеките сменный узел</string>
+    <string name="soft_hammer">Мягкий молоток</string>
+    <string name="strike_hummer">Ударьте мягким молотком по валу \n со стороны рабочего колеса</string>
+    <string name="extract_shaft">Одновременно снимется второй дефлектор. \n Извлеките вал.</string>
+    <string name="pos_num">Поз / Серийный н-р</string>
+    <string name="machine_plate">Паспортная табличка</string>
+    <string name="availibility">Наличие док-в</string>
+    <string name="tds">Технический паспорт</string>
+    <string name="curve">Кривая произв-ти</string>
+    <string name="drawings">Чертежи</string>
+    <string name="spare">Спецификация</string>
+    <string name="dimension">Габаритный чертёж</string>
+    <string name="manual">Инструкция</string>
+    <string name="safety">Безопасность</string>
+    <string name="certificate">Сертификаты</string>
+    <string name="general_pipe">Трубы подведены</string>
+    <string name="bends">Повороты</string>
+    <string name="inlet">Трубопровод всаса</string>
+    <string name="valves">Расп-е/тип клапанов</string>
+    <string name="supports">Опоры трубопр-в</string>
+    <string name="install_pipe">Установка отн. бака</string>
+    <string name="execution">Исполнение</string>
+    <string name="grouting">Подливка</string>
+    <string name="motor_stand">Установка ЭД</string>
+    <string name="lifting_arm">Подъёмные скобы</string>
+    <string name="fasteners">Крепёж</string>
+    <string name="gaskets">Прокладки</string>
+    <string name="type">Тип</string>
+    <string name="sealing_water">Подвод упл. воды</string>
+    <string name="seal_setting">Уставки упл. воды</string>
+    <string name="control_unit">Устройство упл. воды</string>
+    <string name="general_conditions">Общее состояние</string>
+    <string name="lubrication_type">Тип смазки</string>
+    <string name="level_lubrication">Заполнение</string>
+    <string name="motor_installation">Установка</string>
+    <string name="motor_brackets">Регул-е блоки</string>
+    <string name="shims">Пластины</string>
+    <string name="painting">Окраска</string>
+    <string name="grouting2">Фундамент</string>
+    <string name="visual_damages">Повреждения</string>
+    <string name="hand_rotation">Свободное вращение</string>
+    <string name="to_start">Новый отчёт</string>
+    <string name="remove_three_socket">Открутите три болта с торцевой головкой</string>
+    <string name="remove_guard">Снимите элементы ограждения муфты \n и проставок муфты</string>
+    <string name="unscrew_901_11">Открутите болты по окружности улиты</string>
+    <string name="unscrew_901_62">Открутите болты опорной лапы</string>
+    <string name="start_up_supervision">Надзор за запуском</string>
+    <string name="disassembly">Разборка</string>
+    <string name="assembly">Сборка</string>
+    <string name="unscrew_914_11">Открутите болт крепления рабочего колеса</string>
+    <string name="detach_impeller">Отсоедините рабочее колесо, \n повернув его против часовой стрелки.</string>
+    <string name="unscrew_sideplate">Открутите три гайки. Затем, выкрутите \n регулировочные винты против часовой стрелки</string>
+    <string name="detach_sideplate">Теперь боковую пластину можно удалить из улиты, \n с помощью соответствующего инструмента</string>
+    <string name="shaft_size">Размер \n вала</string>
+    <string name="torque">Момент затяжки (Нм)</string>
+    <string name="titan_screw">Титановые болты (76)</string>
+    <string name="rating">Номинальный</string>
+    <string name="max_value">Макс. значение</string>
+    <string name="a1">A1</string>
+    <string name="a2">A2</string>
+    <string name="a3">A3</string>
+    <string name="a4">A4</string>
+    <string name="a5">A5</string>
+    <string name="a6">A6</string>
+    <string name="a7">A7</string>
+    <string name="impeller_screw">Стопорный винт рабочего колеса</string>
+    <string name="eu_screw">Крепёжные болты сменного узла</string>
+    <string name="sf_screw">Крепёжные болты опорной стойки</string>
+    <string name="atеach_impeller">Накрутите рабочее колесо на вал, вращая его по часовой стрелке. \n
+    Закрепите крыльчатку винтом, с установленным О-кольцом. \n
+    Момент затяжки указан в таблице. \n
+    Используя специнструмент застопорите винт.</string>
+    <string name="allen_wrench">Шестигранный ключ</string>
+    <string name="pull_out_eu">Извлеките сменный узел</string>
+    <string name="close_DV">Закойте нагнетательный клапан.</string>
+    <string name="stop_motor">Остановите двигатель. \nУбедитесь в том, что двигатель ни при каких условиях не включится.</string>
+    <string name="close_SV">Закройте всасывающий клапан.</string>
+    <string name="normal_tools">Обычные рабочие инструменты:</string>
+    <string name="hoisting_accessories">&#8226; Подъемные принадлежности. Обратите внимание на требования безопасности!</string>
+    <string name="wrenches">&#8226; Ключи для шестигранных винтов, размеры (мм): 13, 14, 16, 18, 19, 22, 24, 30, 36</string>
+    <string name="allen_wrenches">&#8226; Шестигранные ключи для винтов с торцевой головкой, размеры (мм): 2,5, 4, 5, 6, 8, 10, 14</string>
+    <string name="torque_wrenches">&#8226; Динамометрические ключи для моментов (Нм): 30, 50, 130, 250, 420, 800 </string>
+    <string name="torque_wrench">Динамометрический ключ</string>
+    <string name="hex_screw">- для шестигранных, размеры (мм): 18, 24, 30, 36 </string>
+    <string name="soc_screw">- для торцевой головки, размеры (мм): 8, 10, 14, 17, 19, 22, 27</string>
+    <string name="hooked_wrench">&#8226; Гаечные ключи с крючком, размеры (SKF): HN8, HN10, HN12, HN14, HN18, HN22, HN26 </string>
+    <string name="extractors">&#8226; Съёмники</string>
+    <string name="heater">&#8226; Индукционный нагреватель</string>
+    <string name="indicators">&#8226; Часовые индикаторы</string>
+    <string name="clean_agents">&#8226; Чистящие средства и оборудование</string>
+    <string name="lub_agents">&#8226; Смазочные средства и оборудование</string>
+    <string name="spec_tools">Специальные инструменты:</string>
+    <string name="detach_tool">&#8226; Инструмент для отсоединения износного кольца/боковой пластины корпуса</string>
+    <string name="pipe_punch">&#8226; Серия трубных пуансонов для роликовых подшипников и смазочных колец</string>
+    <string name="sec_tool">&#8226; Контровочный инструмент для винта с головкой рабочего колеса</string>
+    <string name="suspend_eu">Подвесте сменный узел за отверстия в адапторе</string>
+    <string name="fit_gasket">Установите прокладку (400.21) на крышку корпуса</string>
+    <string name="inst_eu">Установите сменный узел на место</string>
+    <string name="lubricate_901_11">Смажьте винты с шестигранной головкой (901.11) смазкой Molykote Ti 1200 и постепенно затяните их крест на крест;
+        сначала 30% момента в таблице, затем 60% момента в таблице, а затем 100% момента в таблице.
+        Наконец, затяните винты винт за винтом по часовой стрелке со 100% моментом, указанным в таблице.</string>
+    <string name="adjust_foot">Поместите регулировочные пластины под опорную стойку. \nПластины должны иметь ту же толщину, что и зазор под опорной стойкой. \nНе закрывайте зазор, за счёт затяжки.</string>
+    <string name="fix_foot">Прикрепите опорную стойку к фундаментной плите с помощью винтов с шестигранной головкой. </string>
+    <string name="coupling_spacer">Установите проставку муфты в соответствии с инструкциями изготовителя муфты.</string>
+    <string name="fix_jackets">Установите кожухи ограждения муфты.</string>
+    <string name="adj_jackets">Кожух муфты следует расположить так,\nчтобы зазор между кожухом муфты и двигателем приблизительно равнялся 5 мм.</string>
+    <string name="saved_reports">Неотправленные отчёты</string>
+    <string name="sent_reports">Отправленные отчёты</string>
+    <string name="new_report">Новый отчёт</string>
+    <string name="pos_ser">Поз / Серийный номер</string>
+    <string name="lub_type">Тип смазки</string>
+    <string name="wooden_bar">Деревянные бруски</string>
+    <string name="instal_side_plate">Смажте O-кольцо и установите его в проточку боковой пластины. \n
+                                     Смажте 3 О-кольца и установите их в проточки регулировочных винтов. \n
+                                     Закрутите винты в боковую пластину. Установите боковую пластину \n
+                                     в улиту. Закрепите шестигранные гайки на регулировочных винтах.</string>
+    <string name="safety_procedures">Безопасность</string>
+    <string name="pipework">Трубопроводы</string>
+    <string name="coupling_unit">Муфтовый узел</string>
+    <string name="baseplate">Фундаментная плита</string>
+    <string name="place_fundation_screw">Вставьте фундаментные винты в крепежные отверстия опорной плиты, \n
+                                         принимая во внимание расстояние между фундаментом и нижним краем опорной плиты, \n
+                                         которое должно быть не менее 50 мм. Каждый фундаментный винт крепится \n
+                                         к опорной плите с помощью шестигранных гаек (2 шт./ фундаментный винт).</string>
+    <string name="disas_dynamic_1">Открутите болты (901.21). Отсоедините крышку корпуса. Удалите прокладку \n
+                                   (400.22) или О-кольцо (412.23). Снимите экспеллер с вала. Используя болты (901.21) \n
+                                   как экстракторы извлеките корпус сальникова узла из адаптора.</string>
+    <string name="disas_dynamic_2">Снимите износную втулку вала (524.21) с вала. \n
+                                   Отвинтите гайки (920.21) и отсоедините упорное кольцо (475.21) \n
+                                   от корпуса сальника (451.21). \n
+                                   Снимите статическое уплотнение (435.21) и уплотнительные кольца (412.25)\n
+                                   с износной втулки вала (524.21). </string>
+    <string name="assembly_dynamic_p1">Смажьте уплотнительное кольцо и вставьте его в паз статического уплотнения. \n
+                                       Устатическое уплотнение на упорное кольцо.\n
+                                       Смажьте уплотнительное кольцо и вставьте его в соответствующую канавку в упорном кольце.\n
+                                       Установите упорное кольцо на корпус сальника  и закрепите его шпильками и гайками. Не затягивайте гайки. \n
+                                       Наденьте износную втулку вала на вал.
+                                       Вставьте корпус сальника вместе с его деталями на место в адаптере.</string>
+
+
+</resources>

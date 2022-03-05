@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/splash"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgn_portrait"
+    android:gravity="right|top"
+    android:orientation="vertical"
+    android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+
+    <ImageView
+        android:id="@+id/logoSulzer"
+        android:layout_width="171dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:contentDescription="@string/sulzer_logo_white"
+        android:visibility="visible"
+        app:srcCompat="@drawable/sulzer_logo_white" />
+
+    <TextView
+        android:id="@+id/firstText"
+        android:layout_width="342dp"
+        android:layout_height="103dp"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:layout_marginTop="280dp"
+        android:text="@string/first_text"
+        android:textColor="#002F6C"
+        android:textIsSelectable="false"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+</LinearLayout>
